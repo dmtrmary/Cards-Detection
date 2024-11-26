@@ -1,7 +1,7 @@
 # Playing-Cards-Detection-with-YoloV8
 
 
-### Steps to run Code
+### Steps to run Code 
 
 - Clone the repository
 ```
