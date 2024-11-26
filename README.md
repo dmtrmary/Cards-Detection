@@ -39,5 +39,3 @@ python filename.py
  </table>
 
 
-
-If you find my videos useful,  I would love your support on Pyresearch: https://www.youtube.com/c/Pyresearch
